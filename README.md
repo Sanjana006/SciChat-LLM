@@ -1,4 +1,4 @@
-# SciChat-LLM-with-PDF-Support
+# SciChat-LLM
 
 SciChat-LLM is a powerful language model designed to enhance academic scientific discussions by supporting the use of PDF documents. It leverages advanced AI capabilities to provide insightful and context-specific answers to questions about academic and scientific literature. Whether you're exploring complex research papers or seeking information on general topics, SciChat-LLM offers thoughtful and accurate responses, making it an invaluable tool for students, researchers, and academics.
 
